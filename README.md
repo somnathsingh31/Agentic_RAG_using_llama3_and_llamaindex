@@ -24,7 +24,7 @@ This project implements an Agentic Retrieval-Augmented Generation (RAG) system u
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/somnathsingh31/agentic-rag.git
+   git clone https://github.com/somnathsingh31/Agentic_RAG_using_llama3_and_llamaindex.git
    cd agentic-rag
    ```
 
